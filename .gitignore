@@ -1,0 +1,30 @@
+# Node modules
+/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+/coverage/
+/dist/
+/build/
+
+# Environment variables files
+.env
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# npm package lock files (optional, you can choose to include them in version control)
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.log
